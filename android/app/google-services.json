@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546762018536",
+    "firebase_url": "https://visionml-78515.firebaseio.com",
+    "project_id": "visionml-78515",
+    "storage_bucket": "visionml-78515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546762018536:android:08cda97865b0ab38ff035d",
+        "android_client_info": {
+          "package_name": "com.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546762018536-5ji8qknqg2ee7md9sje3krbp3509djiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-SXcbzCHUH4wgGY_7LbhFF7_k9f2UNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546762018536-5ji8qknqg2ee7md9sje3krbp3509djiq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546762018536-sk370nt8jcedp78hmnusj52dks6t0cac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FaceDetection"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
